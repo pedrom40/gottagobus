@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #5e5e5e;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Archivo Black', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2, h3, a {
+  color: #a0262f;
+}
